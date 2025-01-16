@@ -1,6 +1,6 @@
 {
-    "name": "windowbuddy",
-    "short_name": "windowbuddy",
+    "name": "LittleWindowBuddy",
+    "short_name": "LWB",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -30,6 +30,11 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
         }
     ]
 }
