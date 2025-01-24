@@ -13,8 +13,8 @@ class MyHomeScreen extends StatefulWidget {
 }
 
 class _MyHomeScreenState extends State<MyHomeScreen> {
-  final String particleAccessToken = "091e8b9d58a116227a15b6068f0e8ec309674370";
-  final String particleDeviceID = "400024001147353138383138";
+  final String particleAccessToken = "091e8b9d58a116227a15b6068f0e8ec309674370"; //TODO: Replace with your Particle access token
+  final String particleDeviceID = "400024001147353138383138"; //TODO: Replace with your Particle device ID
   bool? windowOpened;
   bool isLoading = false;
   double loadingProgress = 0;

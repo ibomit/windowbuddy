@@ -26,7 +26,7 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ibomit/windowbuddy.git
 
 ## Particle Photonh 
 1. **Code**:
